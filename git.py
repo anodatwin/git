@@ -15,4 +15,4 @@ for w in walls:
         if bool(psets.get("Pset_WallCommon").get("IsExternal")):
             ext_walls.append(w)
             
-print(f'Liczba ścian zewnętrznych: {len(ext_walls)}')
+print(f'Liczba ścian zewnętrznych: {len(ext_walls)}') 
