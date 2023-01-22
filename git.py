@@ -16,3 +16,5 @@ for w in walls:
             ext_walls.append(w)
             
 print(f'Liczba ścian zewnętrznych: {len(ext_walls)}') 
+
+totalvolume = 0 
